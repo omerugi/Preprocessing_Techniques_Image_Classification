@@ -53,12 +53,12 @@ How to:
 6. Run the models on the hist that represent each smaple.
 
 
-### Parameters Optimization
+## Parameters Optimization
 
-## Grid Search
+### Grid Search
 Receving many parametes and try to find the best combination.
 
-## Random Grid Search
+### Random Grid Search
 Receving many parametes, but is randomly picking parameters to find a good combination that give good results.
 The idea is to optimize the parametes search and not try all combinations.
 
