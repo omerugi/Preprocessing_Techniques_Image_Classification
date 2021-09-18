@@ -21,7 +21,7 @@ Because the dataset is of raw images first we need to read each one, resize, and
 The featuers for each sample is big meaning the demention is big, while also they have no "sence" behind them only the pixel value,
 this makes the classification problem all the more difficult.
 
-## Bssic Ground Truth
+## Bssic Ground Truth 
 To have a basic result to compare with, we did simple preprocessing and tested the models.
 
 1. Resize - set all the images to the same size.
